@@ -4,7 +4,7 @@
 
 <!-- <a href="https://sakshiss23.github.io/"><img src="/src/header.png"></a> -->
 
-I am Sakshi Singh, currently a pre-final year student, pursuing B.E in Information Science from [DSCE Bangalore](https://www.dsce.edu.in/). I have keen interest in Web and Mobile Development, Open-Source Contribution and learning new technologies, always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Sakshi Singh, currently a pre-final year student, pursuing B.E in Information Science from [DSCE Bangalore](https://www.dsce.edu.in/). I have keen interest in Web & Mobile Development, Open-Source Contribution and learning new technologies, always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiss23&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiss23" /> </p>
 
